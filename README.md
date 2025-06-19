@@ -36,17 +36,5 @@ A beginner-friendly Android app that replicates the **Facebook login/signup inte
    ```bash
    git clone https://github.com/shaikh-insha/facebook-login-ui-android.git
 
-### Folder Structure
-
-facebook-login-ui-android/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/facebooklogin/
-│   │   │   │   └── MainActivity.java
-│   │   │   ├── res/
-│   │   │   │   ├── layout/activity_main.xml
-│   │   │   │   └── drawable/facebook_logo.png
-
 ### License
 This project is for learning and personal portfolio purposes. Feel free to fork and build upon it!
